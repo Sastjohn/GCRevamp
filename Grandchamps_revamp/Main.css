@@ -1,0 +1,21 @@
+
+nav{
+	background-color: #FF391C;
+	float: right;
+}
+nav ul{
+	list-style-type: none;
+}
+nav li{
+	 display: inline-block;
+}
+#logoImage{
+	display: block;
+}
+#logoImage img{
+	height: auto;
+	max-height: 100px;
+	width: auto;
+	max-width: 100%;
+	float: left;
+}
