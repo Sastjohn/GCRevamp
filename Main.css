@@ -1,12 +1,12 @@
 
-nav{
+.nav{
 	background-color: #FF391C;
-	float: right;
+	
 }
-nav ul{
+.nav ul{
 	list-style-type: none;
 }
-nav li{
+.nav li{
 	 display: inline-block;
 }
 #logoImage{
